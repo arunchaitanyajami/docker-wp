@@ -23,7 +23,3 @@ services:
     image: mariadb
     environment:
       MYSQL_ROOT_PASSWORD: 'delli3'
-
-volumes:
-  db_data: {}
-  wp_data: {}
